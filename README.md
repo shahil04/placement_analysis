@@ -51,13 +51,17 @@ In this project, I have used two classifiers :
     
 ## Summary of the results
 
-  
-    Acknowledgements
+![result](fig.png)
+![result](fig1.png)
+![result](fig3.png)
+![result](fig4.png)
+![result](index.png)
+![result](students-grades.png)
+## Acknowledgements
+- kaggle 
+      Providing the Placement datasets. 
+- stackoverflow
 
-    kaggle 
-          Providing the Placement datasets. 
-    stackoverflow
-         
 - For more details go to [Campus Placement Analysis and Prediction blog at medium.com.](https://medium.com/@shahilansari/campus-placement-analysis-and-prediction-cc765f9b9391)
 
 ### [Copyright and license](#copyright-and-license)
